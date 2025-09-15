@@ -1,5 +1,5 @@
 # 💫 About Us:
-🌱 We are currently learning App & Game Development at [skyro.ai](https://skyro.ai/) <br>
+🌱 We are currently learning App & Game Development//  at [skyro.ai](https://skyro.ai/) <br>
 💬 Ask us about Apps, Games and Collab with [RedFox Studios](https://github.com/redfox-studios) <br>
 ⚡ Fun fact, we like cats
 
